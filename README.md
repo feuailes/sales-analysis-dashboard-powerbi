@@ -50,7 +50,8 @@ This project showcases a complete sales analysis of Motorola mobile phones using
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](dashboard.jpg)
+[motorola_dashboard png](https://github.com/user-attachments/assets/38ea15f5-392c-4da7-8d19-7fbc26e076a9)
+
 
 ##  What I Learned
 
